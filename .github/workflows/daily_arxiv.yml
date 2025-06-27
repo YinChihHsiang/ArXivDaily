@@ -57,6 +57,6 @@ jobs:
 
       - name: Push done work
         run: |
-          git add --all
-          git commit -m "Automated deployment"
-          git push --force origin main
+            git add --all
+            git commit -m "Automated deployment" || echo "Nothing to commit"
+            git push --force origin main
