@@ -5,17 +5,19 @@ from __future__ import print_function
 from __future__ import unicode_literals
 
 # Authentication for user filing issue (must have read/write access to repository to add issue to)
-USERNAME = 'olozhika'
+USERNAME = 'YinChihHsiang'
 
 # The repository to add this issue to
-REPO_OWNER = 'olozhika'
-REPO_NAME = 'ArXivDaily_StarFormation'
+REPO_OWNER = 'YinChihHsiang'
+REPO_NAME = 'ArXivDaily'
 
 # Set new submission url of subject
-NEW_SUB_URL = 'https://arxiv.org/list/astro-ph/new'
+NEW_SUB_URLS = [
+    'https://arxiv.org/list/astro-ph/new',
+    'https://arxiv.org/list/gr-qc/new']
 
 # Keywords to search
-KEYWORD_LIST = ["star formation", "star-forming", "molecular cloud", "interstellar medium", "cloud", "clump", "core", "filament", "atomic gas", "N-PDF"]
+KEYWORD_LIST = ["dark energy","black hole","modified gravity","general relativity","gravitational wave"]
 # Keywords to exclude
-KEYWORD_EX_LIST = ["galaxies", "galaxy cluster", " AGN ", "standard candle", "X-ray binar", "solar corona"]
+KEYWORD_EX_LIST = []
 # Note that the 'Keywords' above are actually searched in the abstract instead of the real keyword section. 
