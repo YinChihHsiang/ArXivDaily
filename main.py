@@ -6,12 +6,21 @@ from __future__ import unicode_literals
 
 import argparse
 import os
-
+import datetime
 from bs4 import BeautifulSoup as bs
 import urllib.request
+import yagmail
 
 from github_issue import make_github_issue
 from config import NEW_SUB_URLS, KEYWORD_LIST, KEYWORD_EX_LIST, USERNAME
+
+def send_email(subject, content, to_email, user, password):
+    try:
+        yag = yagmail.SMTP(user, password)
+        yag.send(to=to_email, subject=subject, contents=content)
+        print("邮件已发送到", to_email)
+    except Exception as e:
+        print("发送邮件失败:", str(e))
 
 def main(args):
     keyword_list = KEYWORD_LIST
@@ -93,6 +102,21 @@ def main(args):
     with open(filename_readme, 'w+') as f:
         f.write(full_report)
 
+    # 邮件推送（用环境变量，适配GitHub Actions secrets）
+    EMAIL_USER = os.environ.get("EMAIL_USER")
+    EMAIL_PASSWORD = os.environ.get("EMAIL_PASSWORD")
+    EMAIL_RECEIVER = os.environ.get("EMAIL_RECEIVER")
+    if EMAIL_USER and EMAIL_PASSWORD and EMAIL_RECEIVER:
+        send_email(
+            subject=issue_title + " | ArxivDaily",
+            content=full_report,
+            to_email=EMAIL_RECEIVER,
+            user=EMAIL_USER,
+            password=EMAIL_PASSWORD
+        )
+    else:
+        print("未检测到邮箱环境变量，未发送邮件。")
+    
     now = datetime.datetime.now()
     current_hour = now.hour
     if current_hour==2: make_github_issue(title=issue_title, body=full_report,labels=keyword_list, 
