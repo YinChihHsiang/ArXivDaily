@@ -12,7 +12,7 @@ REPO_OWNER = 'YinChihHsiang'
 REPO_NAME = 'ArXivDaily'
 
 # Set new submission url of subject
-NEW_SUB_URLS = 'https://arxiv.org/list/astro-ph/new'
+NEW_SUB_URL = 'https://arxiv.org/list/astro-ph/new'
 
 # Keywords to search
 KEYWORD_LIST = ["dark energy","black hole","modified gravity","general relativity","gravitational wave"]
