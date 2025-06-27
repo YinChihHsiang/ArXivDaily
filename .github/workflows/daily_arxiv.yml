@@ -44,6 +44,9 @@ jobs:
       - name: Run daily arxiv 
         env:
           GITHUB: ${{ secrets.GITHUB }}
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
         run: TOKEN=${{ secrets.ISSUE_TOKEN }} python main.py --token=TOKEN
       
       # ============================================
