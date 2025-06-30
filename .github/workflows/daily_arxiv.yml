@@ -10,8 +10,8 @@ on:
 env:
 
   TOKEN: ${{ secrets.ISSUE_TOKEN }}
-  GITHUB_USER_NAME: olozhika # your github id
-  GITHUB_USER_EMAIL: olozhika@foxmail.com # your email address
+  GITHUB_USER_NAME: YinChihHsiang # your github id
+  GITHUB_USER_EMAIL: chihhsiangyin2001@gmail.com # your email address
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
