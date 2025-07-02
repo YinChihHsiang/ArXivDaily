@@ -84,7 +84,7 @@ def main(args):
         full_report = full_report + report + '\n'
         
     full_report = full_report + '\n\n'
-    full_report = full_report + 'by olozhika (Xing Yuchen). ' + '\n'
+    full_report = full_report + 'by YinChihHsiang (Yin ZhiXiang). ' + '\n'
     full_report = full_report + '\n\n'
     full_report = full_report + datetime.datetime.now().strftime("%Y-%m-%d") + '\n'
 
