@@ -386,7 +386,7 @@ General Relativity and Quantum Cosmology (gr-qc)
  A novel gauge-theoretic framework for spacetime and gravitation is proposed, in which a {\it Cartan khronon} field dynamically breaks the symmetry between space and time, enabling the emergence of temporality within a fundamentally Euclidean setting. Based on a $Spin(4)$ gauge structure, the theory provides a real-valued formulation of chiral spacetime, wherein the effects typically attributed to dark matter could instead be explained by the dynamics of gravitation. New results are presented with implications for a broad range of phenomena, including cosmology, large-scale structure, gravitational waves, black holes, and potential signatures accessible to laboratory experiments. By avoiding the pitfalls of complexification and reinterpreting chiral spacetime geometry through a real, dynamical, and gauge-theoretic lens, the {\it Cartan khronon} theory offers a fresh and compelling framework for revisiting the foundations of spacetime and gravitation.
 
 
-by olozhika (Xing Yuchen). 
+by YinChihHsiang (Yin ZhiXiang). 
 
 
 2025-07-02
