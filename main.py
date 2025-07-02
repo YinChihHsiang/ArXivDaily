@@ -106,7 +106,10 @@ def main(args):
     EMAIL_USER = os.environ.get("EMAIL_USER")
     EMAIL_PASSWORD = os.environ.get("EMAIL_PASSWORD")
     EMAIL_RECEIVER = os.environ.get("EMAIL_RECEIVER")
-    if EMAIL_USER and EMAIL_PASSWORD and EMAIL_RECEIVER:
+    yag = yagmail.SMTP(user=EMAIL_USER, password=EMAIL_PASSWORD, host='smtp.qq.com')
+    yag.send(to=EMAIL_RECEIVER, subject=issue_title + " | ArxivDaily", contents=full_report)
+    
+    '''if EMAIL_USER and EMAIL_PASSWORD and EMAIL_RECEIVER:
         send_email(
             subject=issue_title + " | ArxivDaily",
             content=full_report,
@@ -115,7 +118,7 @@ def main(args):
             password=EMAIL_PASSWORD
         )
     else:
-        print("未检测到邮箱环境变量，未发送邮件。")
+        print("未检测到邮箱环境变量，未发送邮件。")'''
     
     now = datetime.datetime.now()
     current_hour = now.hour
