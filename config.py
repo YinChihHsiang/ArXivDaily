@@ -14,7 +14,9 @@ REPO_NAME = 'ArXivDaily'
 # Set new submission url of subject
 NEW_SUB_URLS = [
     'https://arxiv.org/list/astro-ph/new',
-    'https://arxiv.org/list/gr-qc/new'
+    'https://arxiv.org/list/gr-qc/new'，
+    'https://arxiv.org/list/math-ph/new',
+    'https://arxiv.org/list/hep-th/new'
 ]
 
 # Keywords to search
