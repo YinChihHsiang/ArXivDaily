@@ -74,14 +74,14 @@ def main(args):
     full_report = full_report + 'Excluded: ' + str(keyword_ex_list) + '\n'
     full_report = full_report + '\n\n'
 
-    full_report = full_report + '### Today: ' + str(len(keyword_dict)) + 'papers \n'
+    full_report = full_report + '### Today: ' + str(len(keyword_dict)) + 'papers \n\n'
     
     if len(keyword_dict) == 0:
         full_report = full_report + 'There is no result \n'
 
     for paper in keyword_dict:
         report = f"#### {paper['title']}\n - **Authors:** {paper['authors']}\n - **Subjects:** {paper['subjects']}\n - **Arxiv link:** {paper['main_page']}\n - **Pdf link:** {paper['pdf']}\n - **Abstract**\n {paper['abstract']}"
-        full_report = full_report + report + '\n'
+        full_report = full_report + report + '\n\n'
         
     full_report = full_report + '\n\n'
     full_report = full_report + 'by YinChihHsiang (Yin ZhiXiang). ' + '\n'
@@ -108,17 +108,6 @@ def main(args):
     EMAIL_RECEIVER = os.environ.get("EMAIL_RECEIVER")
     yag = yagmail.SMTP(user=EMAIL_USER, password=EMAIL_PASSWORD, host='smtp.qq.com')
     yag.send(to=EMAIL_RECEIVER, subject=issue_title + " | ArxivDaily", contents=full_report)
-    
-    '''if EMAIL_USER and EMAIL_PASSWORD and EMAIL_RECEIVER:
-        send_email(
-            subject=issue_title + " | ArxivDaily",
-            content=full_report,
-            to_email=EMAIL_RECEIVER,
-            user=EMAIL_USER,
-            password=EMAIL_PASSWORD
-        )
-    else:
-        print("未检测到邮箱环境变量，未发送邮件。")'''
     
     now = datetime.datetime.now()
     current_hour = now.hour
