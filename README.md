@@ -10,10 +10,10 @@ See `Usage.md` for instructions on how to personalize the repo.
 Keyword list: ['dark energy', 'black hole', 'modified gravity', 'general relativity', 'gravitational wave', 'shadow', 'light ring']
 
 
-Excluded: ['AGN', 'active galactic nucleus']
+Excluded: ['AGN', 'active galactic nucleus', 'stellar-mass black holes']
 
 
-### Today: 36papers 
+### Today: 35papers 
 
 #### The day-long, repeating GRB 250702BDE / EP250702a: A unique extragalactic transient
  - **Authors:** Andrew J. Levan, Antonio Martin-Carrillo, Tanmoy Laskar, Rob A.J. Eyles-Ferris, Albert Sneppen, Maria Edvige Ravasio, Jillian C. Rastinejad, Joe S. Bright, Francesco Carotenuto, Ashley A. Chrimes, Gregory Corcoran, Benjamin P. Gompertz, Peter G. Jonker, Gavin P. Lamb, Daniele B. Malesani, Andrea Saccardi, Javier Sanchez Sierras, Benjamin Schneider, Steve Schulze, Nial R. Tanvir, Susana D. Vergani, Darach Watson, Jie An, Franz E. Bauer, Sergio Campana, Laura Cotter, Joyce N.D. van Dalen, Valerio D'Elia, Massimiliano de Pasquale, Antonio de Ugarte Postigo, Dimple, Dieter H. Hartmann, Jens Hjorth, Luca Izzo, Pall Jakobsson, Amit Kumar, Andrea Melandri, Paul O'Brien, Silvia Piranomonte, Giovanna Pugliese, Jonathan Quirola-Vasquez, Rhaana Starling, Gianpiero Tagliaferri, Dong Xu, Makenzie E. Wortley
@@ -47,17 +47,6 @@ High Energy Astrophysical Phenomena (astro-ph.HE); Data Analysis, Statistics and
 
  - **Abstract**
  Detecting continuous gravitational waves (CWs) is challenging due to their weak amplitude and high computational demands, especially with poorly constrained source parameters. Stochastic gravitational-wave background (SGWB) searches using cross-correlation techniques can identify unresolved astrophysical sources, including CWs, at lower computational cost, albeit with reduced sensitivity. This motivates a hybrid approach where SGWB algorithms act as a first-pass filter to identify CW candidates for follow-up with dedicated CW pipelines. We evaluated the discovery potential of the SGWB analysis tool PyStoch for detecting CWs, using simulated signals from spinning down NSs. We then applied the method to data from the third LIGO-Virgo-KAGRA observing run (O3), covering the (20-1726) Hz frequency band, and targeting four supernova remnants: Vela Jr., G347.3-0.5, Cassiopeia A, and the NS associated with the 1987A supernova remnant. If necessary, significant candidates are followed up using the 5-vector Resampling and Band-Sampled Data Frequency-Hough techniques. However, since no interesting candidates were identified in the real O3 analysis, we set 95\% confidence-level upper limits on the CW strain amplitude $h_0$. The most stringent limit was obtained for Cassiopeia A, and is $h_0 = 1.13 \times 10^{-25}$ at $201.57$ Hz with a frequency resolution of $1/32$ Hz. As for the other targets, the best upper limits have been set with the same frequency resolution, and correspond to $h_0 = 1.20 \times 10^{-25} $ at $202.16$ Hz for G347.3-0.5, $1.20 \times 10^{-25}$ at $217.81$ Hz for Vela Jr., and $1.47 \times 10^{-25}$ at $186.41$ Hz for the NS in the 1987A supernova remnant.
-
-#### Stellar-Mass Black Holes
- - **Authors:** Cosimo Bambi
- - **Subjects:** Subjects:
-High Energy Astrophysical Phenomena (astro-ph.HE); Solar and Stellar Astrophysics (astro-ph.SR); General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** https://arxiv.org/abs/2507.15270
-
- - **Pdf link:** https://arxiv.org/pdf/2507.15270
-
- - **Abstract**
- Stellar-mass black holes ($3$ $M_\odot \lesssim M_{\rm BH} \lesssim 150$ $M_\odot$) are the natural product of the evolution of heavy stars ($M_{\rm star} \gtrsim 20$ $M_\odot$). In our Galaxy, we expect $10^8$-$10^9$ stellar-mass black holes formed from the gravitational collapse of heavy stars, but currently we know less than 100 objects. We also know $\sim 100$ stellar-mass black holes in other galaxies, most of them discovered by gravitational wave observatories in the past 10 years. The detection of black holes is indeed extremely challenging and possible only in very special cases. This article is a short review on the physics and astrophysics of stellar-mass black holes.
 
 #### Semi-empirical Modeling of Supermassive Black Hole Evolution: Highlighting a possible tension between Demographics and Gravitational Wave Background
  - **Authors:** Andrea Lapi, Francesco Shankar, Michele Bosi, Daniel Roberts, Hao Fu, Karthik M. Varadarajan, Lumen Boco
