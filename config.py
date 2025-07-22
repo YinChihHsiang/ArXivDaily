@@ -22,5 +22,5 @@ NEW_SUB_URLS = [
 # Keywords to search
 KEYWORD_LIST = ["dark energy","black hole","modified gravity","general relativity","gravitational wave","shadow","light ring"]
 # Keywords to exclude
-KEYWORD_EX_LIST = []
+KEYWORD_EX_LIST = ["AGN","active galactic nucleus"]
 # Note that the 'Keywords' above are actually searched in the abstract instead of the real keyword section. 
