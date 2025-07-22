@@ -10,10 +10,10 @@ See `Usage.md` for instructions on how to personalize the repo.
 Keyword list: ['dark energy', 'black hole', 'modified gravity', 'general relativity', 'gravitational wave', 'shadow', 'light ring']
 
 
-Excluded: []
+Excluded: ['AGN', 'active galactic nucleus']
 
 
-### Today: 45papers 
+### Today: 36papers 
 
 #### The day-long, repeating GRB 250702BDE / EP250702a: A unique extragalactic transient
  - **Authors:** Andrew J. Levan, Antonio Martin-Carrillo, Tanmoy Laskar, Rob A.J. Eyles-Ferris, Albert Sneppen, Maria Edvige Ravasio, Jillian C. Rastinejad, Joe S. Bright, Francesco Carotenuto, Ashley A. Chrimes, Gregory Corcoran, Benjamin P. Gompertz, Peter G. Jonker, Gavin P. Lamb, Daniele B. Malesani, Andrea Saccardi, Javier Sanchez Sierras, Benjamin Schneider, Steve Schulze, Nial R. Tanvir, Susana D. Vergani, Darach Watson, Jie An, Franz E. Bauer, Sergio Campana, Laura Cotter, Joyce N.D. van Dalen, Valerio D'Elia, Massimiliano de Pasquale, Antonio de Ugarte Postigo, Dimple, Dieter H. Hartmann, Jens Hjorth, Luca Izzo, Pall Jakobsson, Amit Kumar, Andrea Melandri, Paul O'Brien, Silvia Piranomonte, Giovanna Pugliese, Jonathan Quirola-Vasquez, Rhaana Starling, Gianpiero Tagliaferri, Dong Xu, Makenzie E. Wortley
@@ -36,61 +36,6 @@ Astrophysics of Galaxies (astro-ph.GA)
 
  - **Abstract**
  The broad emission lines (BELs) emitted by Active Galactic Nuclei respond to variations in the ionizing continuum emission from the accretion disk surrounding the central supermassive black hole (SMBH). This reverberation response provides insights into the structure and dynamics of the Broad Line Region (BLR). In Rosborough et al., 2024, we introduced a new forward-modeling tool, the Broad Emission Line MApping Code (BELMAC), which simulates the velocity-resolved reverberation response of the BLR to an input light curve. In this work, we describe a new version of BELMAC, which uses photoionization models to calculate the cloud luminosities for selected BELs. We investigated the reverberation responses of H$\alpha$, H$\beta$, MgII$\lambda$2800 and CIV$\lambda$1550 for models representing a disk-like BLR with Keplerian rotation, radiatively driven outflows, and inflows. The line responses generally provide a good indication of the respective luminosity-weighted radii. However, there are situations when the BLR exhibits a negative response to the driving continuum, causing overestimates of the luminosity-weighted radius. The virial mass derived from the models can differ dramatically from the actual SMBH mass, depending mainly on the disk inclination and velocity field. In single zone models, the BELs exhibit similar responses and profile shapes; two-zone models, such as a Keplerian disk and a biconical outflow, can reproduce observed differences between high- and low-ionization lines. Radial flows produce asymmetric line profile shapes due to both anisotropic cloud emission and electron scattering in an inter-cloud medium. These competing attenuation effects complicate the interpretation of profile asymmetries.
-
-#### Double tidal disruption events in the changing-look AGN Mrk1018
- - **Authors:** Zhang XueGuang (GXU)
- - **Subjects:** Subjects:
-Astrophysics of Galaxies (astro-ph.GA); High Energy Astrophysical Phenomena (astro-ph.HE)
- - **Arxiv link:** https://arxiv.org/abs/2507.14428
-
- - **Pdf link:** https://arxiv.org/pdf/2507.14428
-
- - **Abstract**
- Tidal disruption events (TDEs) as excellent beacons to black hole (BH) accreting systems have been studied for more than five decades with a single star tidally disrupted by a central massive BH. However, if considering two stars passing through a central BH and being tidally disrupted in a short period, so-called double TDEs could be expected and lead to unique variability features very different from features from standard TDEs. Here, we report such oversimplified double TDEs in the known changing-look AGN Mrk1018, of which 15years-long light curve with plateau features can be described by two main-sequence stars tidally disrupted by the central supermassive BH. Meanwhile, the BH mass determined by the double TDEs is consistent with the M-sigma relation determined value by the measured stellar velocity dispersions in Mrk1018. The results indicate tight connections between the TDEs and the changing-look properties in Mrk1018.
-
-#### New Frontiers in the Study of Magnetic Massive Stars with the Habitable Worlds Observatory
- - **Authors:** Alexandre David-Uraz (1), Véronique Petit (2), Coralie Neiner (3), Jean-Claude Bouret (4), Yaël Nazé (5), Christiana Erba (6), Miriam Garcia (7), Kenneth Gayley (8), Richard Ignace (9), Jiři Krtička (10), Hugues Sana (11), Nicole St-Louis (12), Asif ud-Doula (13) ((1) Central Michigan University, Mount Pleasant, Michigan, USA, (2) University of Delaware, Newark, Delaware, USA, (3) LESIA, Paris Observatory, PSL University, CNRS, Sorbonne University, Paris-Cité University, Meudon, France, (4) Aix-Marseille University, CNRS, CNES, LAM, Marseille, France, (5) Groupe d'Astrophysique des Hautes Energies, STAR, Université de Liège, Liège, Belgium, (6) Space Telescope Science Institute, Baltimore, Maryland, USA, (7) Centro de Astrobiología, CSIC-INTA, Madrid, Spain, (8) University of Iowa, Iowa City, Iowa, USA, (9) East Tennessee State University, Johnson City, Tennessee, USA, (10) Masaryk University, Brno, Czech Republic, (11) KU Leuven, Leuven, Belgium, (12) Université de Montréal, Montréal, Québec, Canada, (13) Penn State Scranton, Scranton, Pennsylvania, USA)
- - **Subjects:** Subjects:
-Instrumentation and Methods for Astrophysics (astro-ph.IM); Astrophysics of Galaxies (astro-ph.GA); High Energy Astrophysical Phenomena (astro-ph.HE); Solar and Stellar Astrophysics (astro-ph.SR)
- - **Arxiv link:** https://arxiv.org/abs/2507.14441
-
- - **Pdf link:** https://arxiv.org/pdf/2507.14441
-
- - **Abstract**
- High-mass stars are notable for several reasons: they are characterized by strong winds, which inject momentum and enriched material into their surroundings, and die spectacularly as supernovae, leaving behind compact remnants and heavy elements (such as those that make life on Earth possible). Despite their relative rarity, they play a disproportionate role in the evolution of the galaxies that host them, and likely also played a significant role in the early days of the Universe. A subset ($\sim$10\%) of these stars was also found to host magnetic fields on their surface. These fields impact their evolution, and may lead to exotic physics (e.g., heavy stellar-mass black holes, pair-instability supernovae, magnetars, etc.). However, the detection and measurement of magnetic fields is limited, due to current instrumentation, to nearby massive stars in the Milky Way. To truly understand how magnetism arises in massive stars, and what role it might have played in earlier stages of our Universe, we require next-generation hardware, such as the proposed near-infrared-to-ultraviolet spectropolarimeter Pollux, on the Habitable Worlds Observatory (HWO). In this contribution, we detail how Pollux @ HWO will enable new frontiers in the study of magnetic massive stars, delivering results that will profoundly impact the fields of stellar formation, stellar evolution, compact objects, and stellar feedback.
-
-#### RADAR-Radio Afterglow Detection and AI-driven Response: A Federated Framework for Gravitational Wave Event Follow-Up
- - **Authors:** Parth Patel, Alessandra Corsi, E. A. Huerta, Kara Merfeld, Victoria Tiki, Zilinghan Li, Tekin Bicer, Kyle Chard, Ryan Chard, Ian T. Foster, Maxime Gonthier, Valerie Hayot-Sasson, Hai Duc Nguyen, Haochen Pan
- - **Subjects:** Subjects:
-High Energy Astrophysical Phenomena (astro-ph.HE); Instrumentation and Methods for Astrophysics (astro-ph.IM)
- - **Arxiv link:** https://arxiv.org/abs/2507.14827
-
- - **Pdf link:** https://arxiv.org/pdf/2507.14827
-
- - **Abstract**
- The landmark detection of both gravitational waves (GWs) and electromagnetic (EM) radiation from the binary neutron star merger GW170817 has spurred efforts to streamline the follow-up of GW alerts in current and future observing runs of ground-based GW detectors. Within this context, the radio band of the EM spectrum presents unique challenges. Sensitive radio facilities capable of detecting the faint radio afterglow seen in GW170817, and with sufficient angular resolution, have small fields of view compared to typical GW localization areas. Additionally, theoretical models predict that the radio emission from binary neutron star mergers can evolve over weeks to years, necessitating long-term monitoring to probe the physics of the various post-merger ejecta components. These constraints, combined with limited radio observing resources, make the development of more coordinated follow-up strategies essential -- especially as the next generation of GW detectors promise a dramatic increase in detection rates. Here, we present RADAR, a framework designed to address these challenges by promoting community-driven information sharing, federated data analysis, and system resilience, while integrating AI methods for both GW signal identification and radio data aggregation. We show that it is possible to preserve data rights while sharing models that can help design and/or update follow-up strategies. We demonstrate our approach through a case study of GW170817, and discuss future directions for refinement and broader application.
-
-#### The population of hyperluminous X-ray sources as seen by XMM-Newton
- - **Authors:** Roberta Amato, Erwan Quintin, Hugo Tranin, Andrés Gúrpide, Natalie Webb, Olivier Godet, Gian Luca Israel, Matteo Imbrogno, Elias Kammoun, Maitrayee Gupta
- - **Subjects:** Subjects:
-High Energy Astrophysical Phenomena (astro-ph.HE)
- - **Arxiv link:** https://arxiv.org/abs/2507.14875
-
- - **Pdf link:** https://arxiv.org/pdf/2507.14875
-
- - **Abstract**
- Ultraluminous and hyperluminous X-ray sources (ULXs and HLXs) are among the brightest astrophysical objects in the X-ray sky. While ULXs most likely host stellar-mass compact objects accreting at super-Eddington rates, HLXs are compelling candidates for accreting intermediate-mass black holes. Our goal is to produce a clean sample of HLXs by removing possible contaminants and characterise the spectral properties of the remaining population. Starting with a set of 115 HLXs detected by XMM-Newton, we identified and removed contaminants (AGNs, X-ray diffuse emission detected as point-like, and tidal disruption event candidates) and retrieved 40 sources for which XMM-Newton spectra are available. We fitted them with an absorbed power law model and determined their unabsorbed luminosities and hardness ratios. We constructed the hardness-luminosity diagram, compared the results with the spectral properties of the HLX prototype, ESO 243-49 HLX-1, and conducted a deeper analysis on a few promising candidates. The resulting HLX population spans a luminosity range from $1\times10^{41}$ erg s$^{-1}$ to nearly $10^{43}$ erg s$^{-1}$ and is homogeneously spread in hardness between 0.5 and 5. Half of the population has hardness ratios higher than a typical AGN, and could be considered the extension of the ULX population at higher energies. We found four very soft outliers, which are characterised by steep power law spectra and no X-ray emission above 1$-$2 keV, similarly to ESO 243-49 HLX-1. Those with multi-epoch archival data show changes in luminosity up to almost two orders of magnitudes. We show that sources currently identified as HLXs can be more diverse than ULXs and disentangling between different types of objects is not trivial with currently available data. New observations would be beneficial to expand the current sample and uncover the true nature of many objects of this class.
-
-#### Exploring Spatially-Resolved Metallicities, Dynamics and Outflows in Low-Mass Galaxies at $z \sim 7.6$
- - **Authors:** L. R. Ivey, J. Scholtz, A. L. Danhaive, S. Koudmani, G. C. Jones, R. Maiolino, M. Curti, F. D'Eugenio, S. Tacchella, W. M. Baker, S. Arribas, S. Charlot, D. Eisenstein, Z. Ji, N. Laporte, D. Puskás, B. Robertson, D. Sijacki, C. Witten
- - **Subjects:** Subjects:
-Astrophysics of Galaxies (astro-ph.GA)
- - **Arxiv link:** https://arxiv.org/abs/2507.14936
-
- - **Pdf link:** https://arxiv.org/pdf/2507.14936
-
- - **Abstract**
- A majority of JWST/NIRSpec/IFU studies at high redshifts to date have focused on UV-bright or massive objects, while our understanding of low-mass galaxies at early cosmic times remains limited. In this work, we present NIRSpec/IFS high-resolution observations of two low-mass ($M_* < 10^9 \ M_\odot$), low-metallicity ($[12 + \log(\text{O/H})] < 8$) galaxies at $z \sim 7.66$ with evidence of hosting AGN. Using spatially-resolved maps of rest-frame optical emission lines, we find flat metallicity profiles, indicative of ISM redistribution by outflows or past merging. We identify kinematical components decoupled from galactic rotation with velocities of $\sim 250 - 500 \ \text{km} \ \text{s}^{-1}$. We argue that these components are likely tracing outflows, possibly AGN-driven, for which we infer outflow rates of $\sim 21 - 40 \ M_\odot \ \text{yr}^{-1}$, suggesting they may suppress future star formation. We compare our observational results to those from the new large-volume AESOPICA simulations, which fully incorporate different models of black hole growth and AGN feedback. We find that our observational results of $v_\text{out}/v_\text{esc}$ and $\dot{M}_\text{out}$/SFR are consistent with the AGN population in these simulations, hinting that AGN-driven feedback may contribute to quenching both in our systems and in a wider population of low-mass galaxies in the early Universe. This novel study demonstrates the necessity of deep IFU observations to decompose the complex kinematics and morphology of high-$z$ galaxies, trace outflows, and constrain the effect of feedback in these low-mass systems.
 
 #### Harnessing PyStoch potential: detecting continuous gravitational waves from interesting supernova remnant targets
  - **Authors:** Claudio Salvadore, Iuri La Rosa, Paola Leaci, Francesco Amicucci, Pia Astone, Sabrina D'Antonio, Luca D'Onofrio, Cristiano Palomba, Lorenzo Pierini, Francesco Safai Tehrani
@@ -135,17 +80,6 @@ Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Qua
 
  - **Abstract**
  Inflation with an inflection point potential is a popular model for producing primordial black holes. The potential near the inflection point is approximately flat, with a local maximum next to a local minimum, prone to eternal inflation. We show that a sufficient condition for eternal inflation is $\lambda_1 \leq 3$, where $\lambda_1$ is the index of the `exponential tail,' the lowest eigenvalue of the Fokker--Planck equation over a bounded region. We write $\lambda_1$ in terms of the model parameters for linear and quadratic regions. Wide quadratic regions inflate eternally if the second slow-roll parameter $\eta_V \geq -6$. We test example models from the literature and show this condition is satisfied; we argue eternal inflation is difficult to avoid in inflection point PBH models. Eternally inflating regions correspond to type II perturbations and form baby universes, hidden behind black hole horizons. These baby universes are inhomogeneous on large scales and dominate the multiverse's total volume. We argue that, if volume weighting is used, eternal inflation makes inflection point primordial black hole models incompatible with large-scale structure observations.
-
-#### Signatures of Exploding Supermassive PopIII Stars at High Redshift in JWST, EUCLID and Roman Space Telescope
- - **Authors:** Cédric Jockel, Kyohei Kawaguchi, Sho Fujibayashi, Masaru Shibata
- - **Subjects:** Subjects:
-High Energy Astrophysical Phenomena (astro-ph.HE); Cosmology and Nongalactic Astrophysics (astro-ph.CO); Astrophysics of Galaxies (astro-ph.GA)
- - **Arxiv link:** https://arxiv.org/abs/2507.15556
-
- - **Pdf link:** https://arxiv.org/pdf/2507.15556
-
- - **Abstract**
- Recently discovered supermassive black holes with masses of $\sim10^8\,M_\odot$ at redshifts $z\sim9$-$11$ in active galactic nuclei (AGN) pose severe challenges to our understanding of supermassive black hole formation. One proposed channel are rapidly accreting supermassive PopIII stars (SMSs) that form in large primordial gas halos and grow up to $<10^6\,M_\odot$. They eventually collapse due to the general relativistic instability and could lead to supernova-like explosions. This releases massive and energetic ejecta that then interact with the halo medium via an optically thick shock. We develop a semi-analytic model to compute the shock properties, bolometric luminosity, emission spectrum and photometry over time. The initial data is informed by stellar evolution and general relativistic SMS collapse simulations. We find that SMS explosion light curves reach a brightness $\sim10^{45\mathrm{-}47}\,\mathrm{erg/s}$ and last $10$-$200$ years in the source frame - up to $250$-$3000$ years with cosmic time dilation. This makes them quasi-persistent sources which vary indistinguishably to little red dots and AGN within $0.5$-$9\,(1+z)$ yrs. Bright SMS explosions are observable in long-wavelength JWST filters up to $z\leq20$ ($24$-$26$ mag) and pulsating SMSs up to $z\leq15$. EUCLID and the Roman space telescope (RST) can detect SMS explosions at $z<11$-$12$. Their deep fields could constrain the SMS rate down to $10^{-11}$Mpc$^{-3}$yr$^{-1}$, which is much deeper than JWST bounds. Based on cosmological simulations and observed star formation rates, we expect to image up to several hundred SMS explosions with EUCLID and dozens with RST deep fields.
 
 #### Accelerating Universe without dark energy: matter creation after DESI DR2
  - **Authors:** Sauvik Bhattacharjee, Sudip Halder, Jaume de Haro, Supriya Pan, Emmanuel N. Saridakis
@@ -301,28 +235,6 @@ General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phen
  - **Abstract**
  Astrophysical compact objects are studied in the context of quadratic non-metricity gravity. The solutions to the gravitational field equations, which include fluid components, are analyzed to investigate the density and pressure properties of radio pulsars. It is explicitly demonstrated that the theoretically stable models are consistent with astronomical data, due to the geometric features of the quadratic component. Furthermore, it is shown that, in contrast to the compactness limits of black holes in general relativity, the core density can significantly exceed the density at which nuclear saturation occurs, and the surface density can also surpass the value of nuclear saturation. Additionally, it is found that the radial sound speed remains below the conformal upper bound for sound velocity established by perturbative quantum chromodynamics.
 
-#### Influence of the external electromagnetic field on the properties of the Novikov-Thorne accretion disk in Kerr spacetime
- - **Authors:** Shiyang Hu, Yuxiang Zuo, Dan Li, Chen Deng
- - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** https://arxiv.org/abs/2507.14599
-
- - **Pdf link:** https://arxiv.org/pdf/2507.14599
-
- - **Abstract**
- The Novikov-Thorne accretion disk model is widely employed in astrophysics, yet computing its blackbody spectrum theoretically requires analytical expressions for the orbital parameters -- specific energy, angular momentum, and angular velocity -- of the constituent timelike particles, a task extremely challenging in non-integrable curved spacetimes. In this work, we numerically obtain these orbital parameters for quasi-Keplerian motion in Kerr spacetime with an asymptotically uniform magnetic field using iterative, finite-difference, and interpolation methods, enabling simulations of the disk's energy flux density, temperature, and blackbody spectra across diverse spin parameters, observational inclinations, and magnetic field strengths. We demonstrate that when the magnetic field aligns with the black hole's angular momentum, the disk's radiation positively correlates with field strength, while spectral analysis for our specific black hole mass and accretion rate reveals a conservative detectable threshold of $1.0638 \times 10^{-9}$ T for ambient magnetic fields. This study not only extends the Novikov-Thorne model to non-integrable axisymmetric spacetimes but also establishes the first direct relationship between external magnetic fields and disk properties, providing critical theoretical support for future magnetic environment studies through disk radiation observations.
-
-#### Multidimensional gravity, black holes and mirror (topological) stars
- - **Authors:** Kirill A. Bronnikov, Sergei V. Bolokhov, Milena V. Skvortsova
- - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** https://arxiv.org/abs/2507.14603
-
- - **Pdf link:** https://arxiv.org/pdf/2507.14603
-
- - **Abstract**
- We discuss static, spherically symmetric solutions to the 5D Einstein-Maxwell equations (belonging to wide classes of multidimensional solutions known at least from the 1990s) and select among them those which must observationally look like local objects whose surface reflects back particles or signals getting there, the so-called mirror stars (also called ``topological stars'' by some authors). Their significant parameters are the Schwarzschild mass $m$ and the magnetic charge $q$, such that $q^2 > 3m^2$. For comparison, we also discuss their black hole counterparts for which $q^2 < 3m^2$. For both these objects, we study spherically symmetric time-dependent perturbations and determine the stability regions in their parameter spaces. Our stability results disagree with some of those previously announced in the literature.
-
 #### Bounded compactness from G(E)UP
  - **Authors:** Roberto Casadio, Ilim Irfan Çimdiker, Octavian Micu, Jonas Mureika
  - **Subjects:** Subjects:
@@ -454,17 +366,6 @@ General Relativity and Quantum Cosmology (gr-qc); Analysis of PDEs (math.AP); Di
 
  - **Abstract**
  In this third work in a series, we prove the local-in-time well-posedness of the IBVP for the vacuum Einstein equations in general relativity with twisted DIrichlet boundary conditions on a finite timelike boundary. The boundary conditions consist of specification of the pointwise conformal class of the boundary metric, together with a scalar density involving a combination of the volume form of the bulk metric restricted to the boundary together with the volume form of the boundary metric itself.
-
-#### Gravitational waveforms from inspiraling compact binaries in quadratic gravity and their parameterized post-Einstein characterization
- - **Authors:** Matheus F. S. Alves, L.G. Medeiros, Davi C. Rodrigues
- - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** https://arxiv.org/abs/2507.15571
-
- - **Pdf link:** https://arxiv.org/pdf/2507.15571
-
- - **Abstract**
- We investigate gravitational waveforms from the inspiral phase of compact binary systems within the framework of quadratic gravity and map their deviations from general relativity into the parameterized post-Einstein (PPE) formalism to constrain the theory parameters. Quadratic gravity generically includes a massive spin-2 ghost, which leads to ill-defined energy and angular momentum fluxes. Following earlier proposals, we remove these unphysical features by imposing a constraint on the massive spin-2 mode, restricting it to propagate only the same polarizations of general relativity. Within the quadrupole approximation, we derive the radiative degrees of freedom, including massless and massive tensor modes, as well as a massive scalar field. Using the stationary phase approximation, we compute the Fourier-domain waveform of the massless tensor modes and extract the phase corrections. For small deviations from general relativity, we show that both the scalar and massive tensor modes can be consistently embedded into the PPE framework, extending previous results that considered only scalar fields. We derive updated constraints on the parameters of quadratic gravity, finding bounds improved by three orders of magnitude compared to existing limits. Finally, we present forecasts for the sensitivity of the Einstein Telescope to these deviations.
 
 #### Towards relativistic inspirals into black holes surrounded by matter
  - **Authors:** Lukáš Polcar, Vojtěch Witzany
