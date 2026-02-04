@@ -7,13 +7,13 @@ Auto update Star Formation & Molecular Cloud papers at about 2:30am UTC (10:30am
 See `Usage.md` for instructions on how to personalize the repo. 
 
 
-Keyword list: ['dark energy', 'black hole', 'modified gravity', 'general relativity', 'exact solution', 'shadow']
+Keyword list: ['little red dot', 'black hole', 'modified gravity', 'exact solution']
 
 
-Excluded: ['stellar-mass black holes']
+Excluded: []
 
 
-### Today: 22papers 
+### Today: 20papers 
 
 #### Radiation-hydrodynamics of star-disc collisions for quasi-periodic eruptions
  - **Authors:** Taj Jankovič, Clément Bonnerot, Sergey Karpov, Aleksej Jurca
@@ -47,17 +47,6 @@ Astrophysics of Galaxies (astro-ph.GA)
 
  - **Abstract**
  Double-peaked H$\alpha$ emission profiles can serve as potential signatures of accreting intermediate-mass black holes (IMBHs), particularly those residing outside galactic nuclei. Such features are expected to arise from rotating disk-like structures around black holes and can be used to identify elusive IMBH candidates. \citet{Almeida2022ApJ...934..100S} reported a sample of such double-peaked H$\alpha$ sources in the MUSE-Wide survey, interpreting them as potential signatures of wandering IMBHs after systematically excluding alternative explanations. Their method relied on constructing H$\alpha$ maps around central galaxies and visually identifying compact emission clumps in the surrounding halo regions. In this work, we revisit the analysis using the deeper MUSE Extremely Deep Field (MXDF) data and an automated detection algorithm tailored to identify such features. However, we do not recover any candidate population in MXDF, resulting in a null detection. This outcome is nevertheless informative, as it (1) highlights the inherent challenges in detecting IMBHs, and (2) demonstrates the potential of automated approaches for future systematic searches, even though it did not yield a positive outcome in this case.
-
-#### Line-Intensity Mapping
- - **Authors:** Tzu-Ching Chang, Adam Lidz
- - **Subjects:** Subjects:
-Cosmology and Nongalactic Astrophysics (astro-ph.CO)
- - **Arxiv link:** https://arxiv.org/abs/2602.03011
-
- - **Pdf link:** https://arxiv.org/pdf/2602.03011
-
- - **Abstract**
- Line-Intensity Mapping (LIM) has emerged as a powerful technique for studying large-scale structure and the high-redshift universe, enabling three-dimensional maps of line emission across vast cosmological volumes. In this review, we summarize the LIM framework, its key scientific goals, and its future prospects. We describe the landscape of emission line tracers, theoretical modeling approaches, anticipated signals, and data-analysis methodologies. We also discuss experimental challenges, particularly those posed by astrophysical foregrounds, and review possible mitigation strategies. Further, we highlight a range of cross-correlation science cases, linking LIM with other cosmological surveys. Finally, we summarize current and upcoming experiments and early results, including recent first detections, while outlining the outlook for future discoveries. Specifically, LIM may offer new insights into galaxy formation and evolution and cosmology, while revealing the Epoch of Reionization, Cosmic Dawn, and possibly the Cosmic Dark Ages. LIM enables cosmological measurements that complement other probes and provide unique access to the high-redshift universe, potentially shedding light on dark matter, dark energy, and cosmic inflation.
 
 #### Evidence for a 3.0$σ$ Deviation in Gravitational Light Deflection from General Relativity at Cosmological Scales with KiDS-Legacy and CMB Lensing
  - **Authors:** Guo-Hong Du, Tian-Nuo Li, Tonghua Liu, Jing-Fei Zhang, Xin Zhang
@@ -113,17 +102,6 @@ General Relativity and Quantum Cosmology (gr-qc)
 
  - **Abstract**
  In this work, we have studied the motion of a massless scalar photon in the renormalization group (RG) improved Schwarzschild black hole spacetime in the presence of perfectly fluid dark matter (PFDM). Considering the critical orbit conditions and the null geodesics condition in static spherically sym- In metric geometry, we have shown the variation of the radius of the photon sphere $r_{ph}$ with the PFDM parameter $\zeta$. Due to perturbations in black hole spacetime, gravitational waves are emitted in the form of quasi-normal radiations, which correspond to quasi-normal modes (QNMs). In this work, we have studied two types of perturbations in RG improved Schwarzschild spacetime: scalar field perturbations and electromagnetic (EM) field perturbations. For both cases, we have studied the effect of the PFDM parameter on the quasi-normal mode frequencies and the shadow of the black hole, which is related to the photon radius.
-
-#### Scale-Invariant Bounce Cosmology in Weyl f(Q) Gravity with Quintom Signature
- - **Authors:** Rita Rani, G. K. Goswami, J. K. Singh, Sushant G. Ghosh, Sunil D Maharaj
- - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO)
- - **Arxiv link:** https://arxiv.org/abs/2602.02576
-
- - **Pdf link:** https://arxiv.org/pdf/2602.02576
-
- - **Abstract**
- We investigate a bouncing cosmological model within the Weyl-type $f(Q)$ gravity framework, employing a power-law form of the non-metricity scalar $Q$. The model successfully resolves the initial singularity problem by demonstrating a nonsingular bounce, where the universe transitions from a contracting phase $ \dot{a}(t)<0 $ to an expanding phase ($ \dot{a}(t)>0 $) at the bouncing point $t \approx 0.$ Key features include the violation of the null energy condition (NEC) near the bounce and the crossing of the phantom divide line ($\omega=-1$) by the equation of state (EoS) parameter, indicating quintom-like behavior. The model exhibits accelerated expansion post-bounce, suggesting an inflationary phase. Stability analysis via the adiabatic index reveals instability near the bouncing point, while energy conditions highlight the dominance of dark energy. Additionally, the study explores scalar fields, showing that quintessence-like kinetic energy becomes negative and phantom-like kinetic energy peaks positively near the bounce, aligning with dark energy dynamics. The Hubble parameter, deceleration parameter, and Hubble radius further validate the bouncing scenario, with the latter displaying symmetric behaviour around the bounce. These results underscore the viability of Weyl-type $f(Q)$ gravity as a framework for nonsingular bouncing cosmologies, offering insights into early universe dynamics and dark energy behaviour.
 
 #### Observational signatures of charged Bardeen black holes in perfect fluid dark matter with a cloud of strings
  - **Authors:** Faizuddin Ahmed, Ahmad Al-Badawi, İzzet Sakallı
