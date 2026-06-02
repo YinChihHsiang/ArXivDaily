@@ -7,13 +7,13 @@ Auto update Star Formation & Molecular Cloud papers at about 2:30am UTC (10:30am
 See `Usage.md` for instructions on how to personalize the repo. 
 
 
-Keyword list: ['inhomogeneous cosmology', 'inhomogeneous universe', 'multifield dark energy', 'multi-field dark energy', 'black hole', 'modified gravity', 'exact solution']
+Keyword list: ['exact solution', 'modified gravity', 'nonlinear electrodynamics', 'dark energy', 'black hole']
 
 
 Excluded: []
 
 
-### Today: 32papers 
+### Today: 37papers 
 
 #### Eigenvalue formulation of Stochastic Inflation and application to large perturbation generating inflationary features
  - **Authors:** Swagat S. Mishra, Edmund J. Copeland, Anne M. Green
@@ -70,6 +70,17 @@ Cosmology and Nongalactic Astrophysics (astro-ph.CO)
  - **Abstract**
  Different candidate models are able to reproduce the dynamical dark energy signal preferred by combinations of recent distance measurements. These models may be distinguished by the behavior of their perturbations, which are controlled by the effective sound speed $c_s^2(k,a)$. To explore correlations between the dark energy sound speed and perturbative behavior, we test modified gravity (MG) scenarios in which the dark energy equation of state and sound speed determine modifications to the clustering of matter. We investigate the impact of varying the dark energy sound speed on several cosmological quantities in both General Relativity (GR) and MG. We constrain the dark energy and modified gravity parameters using measurements of the Cosmic Microwave Background (CMB) from Planck PR4, type Ia supernova luminosity distances (SN) from Pantheon+, Baryon Acoustic Oscillations (BAO) from DESI DR2, and cosmic shear from DES-Y3. Using the combination of CMB+BAO+SN, we find that, in the MG scenarios, the preference for dynamical dark energy is correlated with deviations from GR over redshifts $z < 2$ at over 95\% confidence level. The significance of these deviations is not degraded when considering a dynamical or superluminal sound speed, but vanishes if we assume a cosmological constant. The inclusion of cosmic shear and CMB lensing data significantly shifts the constraints towards GR. Our framework enables the exploration of modified gravity models using the dark energy sound speed as a physically meaningful free parameter.
 
+#### Interacting dark energy constraints from Fermi GRBs and Pantheon+ SNe Ia with full GRB covariance
+ - **Authors:** Jianfeng Meng, Xiaofeng Yang, Yunliang Ren, Yangjun Shi, Bohao Wang, Jingze Li, Xiongwei Liu
+ - **Subjects:** Subjects:
+Cosmology and Nongalactic Astrophysics (astro-ph.CO)
+ - **Arxiv link:** https://arxiv.org/abs/2606.00549
+
+ - **Pdf link:** https://arxiv.org/pdf/2606.00549
+
+ - **Abstract**
+ The standard $\Lambda$CDM model faces long-standing theoretical and observational problems, such as the Hubble tension, which motivate extensions beyond $\Lambda$CDM, including interacting dark energy (IDE). Type Ia supernovae (SNe Ia) are precise probes of the late-time expansion history, while gamma-ray bursts (GRBs) can extend distance measurements to higher redshifts. However, GRB cosmology depends on the calibration of luminosity relations, the covariance treatment, and the intrinsic scatter. In this work, we use 15 years of Fermi/GBM long-GRB observations and Pantheon+ SNe Ia to test whether current distance data provide evidence in favor of IDE models over $\Lambda$CDM. We compare four flat models: $\Lambda$CDM, $w$CDM, IDE-$\rho_{\rm de}$, and IDE-$\rho_{\rm c}$. The GRB covariance is constructed by propagating the Amati-relation calibration covariance, and the GRB intrinsic scatter is sampled as a nuisance parameter. A diagonal GRB covariance is also considered as a robustness test. With the full GRB covariance, both the GOLD and FULL samples give $H_0\simeq 72.8~{\rm km~s^{-1}~Mpc^{-1}}$ in $\Lambda$CDM. The IDE models do not improve the fit enough to compensate for their extra parameters, and the BIC favors the simpler $\Lambda$CDM model. The diagonal-covariance test gives the same model-selection conclusion, although it changes the fitted GRB intrinsic scatter. We conclude that, for the two interaction forms considered here and at the present level of GRB systematics, current GRB and Pantheon+ data do not provide evidence for interacting dark energy. Current GRBs mainly provide a high-redshift extension of the Hubble diagram and test the shape of the expansion history.
+
 #### Understanding the Broad-line Region of Active Galactic Nuclei with Photoionization. II. Slim disks, Self-shadowing, and BLR sizes
  - **Authors:** Qiaoya Wu, Yue Shen, Chris Done, Michael R. Goad, Scott Hagen
  - **Subjects:** Subjects:
@@ -80,6 +91,17 @@ Astrophysics of Galaxies (astro-ph.GA)
 
  - **Abstract**
  Reverberation-mapping (RM) measurements have revealed that high-accretion-rate active galactic nuclei (AGNs) systematically lie below the canonical broad-line region (BLR) radius - optical continuum luminosity (R-L) relation, exhibiting shorter lags than predicted for fixed 5100Åluminosity. The physical origin of these offsets remains debated. We investigate how accretion-flow structure and BLR cloud properties affect the emissivity-weighted BLR radius using analytic slim-disk SEDs and photoionization calculations on a two-dimensional axisymmetric grid. As the accretion rate approaches and exceeds the Eddington limit, geometric thickening of the inner disk produces anisotropic illumination and self-shadowing, reducing ionizing flux seen by low-latitude BLR clouds and flattening the R-L relation at high L/LEdd. Self-shadowing at high accretion rates reproduces the observed R-L trend in the RM AGN sample reasonably well, but this effect alone is insufficient to explain the observed lag offset in low-mass ($\sim10^{7}M_\odot$) systems with high accretion rates. Motivated by accretion-disk density scalings, we further explore models in which the BLR gas density increases toward lower black hole mass or higher accretion rate. We find that an accretion-rate-dependent BLR density enhancement further improves agreement with observed RM data, where the BLR gas density increases by a factor of 3-5 for one dex increase in $\dot{m}$. Variations in BLR opening angles produce a less important effect on BLR sizes. These results demonstrate that self-consistent modeling of accretion disk SED, BLR illumination and photoionization, and gas density variations can fully explain the observed distribution of AGNs in the BLR size - optical luminosity plane. This framework provides a physically motivated link between accretion-flow structure and BLR observables across a broad range of black-hole properties.
+
+#### A short review on Quintom dark energy theory
+ - **Authors:** Xin Ren, Si-Yu Li, Yang Liu, Yifu Cai, Hong Li, Xinmin Zhang
+ - **Subjects:** Subjects:
+Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** https://arxiv.org/abs/2606.01360
+
+ - **Pdf link:** https://arxiv.org/pdf/2606.01360
+
+ - **Abstract**
+ In this paper, we provide a short review on the Quintom dark energy theory. Firstly, we discuss the No-Go theorem associated with dynamical dark energy, then present some examples of models in which the equation of state (EoS) evolves with time and can cross $w=-1$ . Secondly, we discuss the bouncing universe and emergent universe with Quintom matter. Finally, we discuss the possibility of studying the nature of dark energy by measuring the Cosmic Microwave Background (CMB) polarization rotation angle.
 
 #### Primordial black holes spin from cosmological first-order phase transitions
  - **Authors:** Yu-Shi Hao
@@ -213,6 +235,17 @@ General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (
  - **Abstract**
  Traversable wormholes are among the most interesting solutions of gravitational theories, but within General Relativity they generally require exotic matter violating the null energy condition. Modified gravity theories with matter-geometry coupling provide a promising framework in which wormhole geometries may instead be supported by effective gravitational contributions. Motivated by this possibility, we investigate rotating traversable wormholes in $f(R,T)$ gravity, where $R$ is the scalar curvature and $T$ is the trace of the energy-momentum tensor, within the slow-rotation approximation. We construct stationary and axisymmetric wormhole solutions supported by an anisotropic fluid and show that the obtained geometries are regular, asymptotically flat, horizonless, and satisfy the flare-out condition at the throat. A central result is that the matter sector satisfies both the null and strong energy conditions, indicating that traversable rotating wormholes can be supported without exotic matter. We further analyze particle motion, frame dragging, and non-geodesic effects arising from matter-geometry coupling, together with shadow deformation and gravitational lensing signatures induced by rotation. A preliminary stability analysis based on sound-speed conditions indicates the physical viability of the solutions. These results demonstrate that rotating wormholes in $f(R,T)$ gravity constitute physically consistent compact configurations with potentially observable astrophysical signatures.
 
+#### Analytical Solutions to the Wheeler-DeWitt Equation in Rosen-Lagrangian Cosmology via the Eisenhart Lift
+ - **Authors:** Narakorn Kaewkhao (Prince Songkla U.), Suparat Marit (Prince Songkla U.), Phongpichit Channuie (Walailak U.)
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** https://arxiv.org/abs/2606.01500
+
+ - **Pdf link:** https://arxiv.org/pdf/2606.01500
+
+ - **Abstract**
+ The Rosen Lagrangian framework promotes the cosmological constant to a scale-factor-dependent quantity, $\Lambda(a)=\Lambda_{0}a^{\lambda}$, thereby providing a dynamical dark energy scenario for $\lambda \neq 0$. In the special case $\lambda=0$, the model naturally reduces to the standard $\Lambda$CDM cosmology. Within this framework, the conformal Killing equations are employed to determine the conformal factor $\mathcal{F}(a)$, which is expressed in terms of the effective potential $V_{\rm eff}$ and its derivative $V'_{\rm eff}$. Furthermore, the Eisenhart lift formalism introduces an additional field $\chi$, allowing the cosmological dynamics to be reformulated through a purely kinetic lifted action. This geometrical construction provides a powerful approach to quantum cosmology by transforming the Wheeler-DeWitt equation into a tractable form that admits analytic solutions. Such solutions are particularly relevant in cosmological epochs dominated by the cosmological constant, including both the inflationary era of the early Universe and the late-time accelerated expansion. Consequently, this framework offers a promising avenue for connecting geometrical methods, quantum cosmology, and dynamical dark energy within a unified description.
+
 #### Gravitational-wave astronomy with a space-based optical clock network
  - **Authors:** Dhruva Ganapathy, Divya Singh, Sammith Singamsetty, Shimon Kolkowitz
  - **Subjects:** Subjects:
@@ -333,6 +366,28 @@ General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (
 
  - **Abstract**
  We provide a novel geometric regularization mechanism for black bounce spacetimes based on an effective gravitational tension screening inspired by Schwinger like saturation effects. The construction assumes that the gravitational tension associated with the vacuum geometry does not grow indefinitely in high curvature and short scales regimes, but dynamically approaches a finite critical value. As a result, the scale function acquires tension dependent corrections, giving rise to a regular bounce structure without introducing ad hoc regular cores. The mechanism generates regular geometries with spherical, planar, and hyperbolic transverse sections, describing regular black holes (RBHs), extremal RBHs, and traversable wormholes. A key result is that the bounce location emerges dynamically from the interplay between gravitational tension and geometric screening. Depending on the regime, the bounce may remain associated with short distance scales or be displaced toward larger finite scale regions, indicating that saturation effects can modify not only the inner structure of compact objects at short scales but also their global geometry. Hiperbolic and planar RBHs may satisfy the standard energy conditions near the bounce. Moreover, the hyperbolic geometry exhibits distinctive features, including regular negative mass configurations and a strong dependence of the energy conditions on the system parameters. In contrast, the matter sources supporting wormhole geometries, as expected, violate the energy conditions near the throat.
+
+#### Dyonic Quark Stars in Quasi-Topological Electromagnetism
+ - **Authors:** Michael Gammon, Nicola De Kock, Robert B. Mann, Amos Kubeka
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE); Solar and Stellar Astrophysics (astro-ph.SR); High Energy Physics - Phenomenology (hep-ph)
+ - **Arxiv link:** https://arxiv.org/abs/2606.02511
+
+ - **Pdf link:** https://arxiv.org/pdf/2606.02511
+
+ - **Abstract**
+ In this paper we consider quark star solutions to Liu et al.'s \cite{Liu_2019} quasi-topological electromagnetism (QTEM), a recently proposed form of dark energy. Since the QTEM contribution is trivial for pure electric/magnetic charge, we consider the dyonic case in pure QTEM which does induce (dark) non-trivial dynamics from the non-linear theory. Besides the introduction of a dyonic charge distribution generally pushing the characteristic quark star `hook' shape to larger masses and radii, it also induces a second branch at very large mass and radius for stars with a small dyonic charge ratio. This second set of solutions have a negative pressure envelope surrounding a positive pressure core. As we explore the parameter space these features interact and evolve in interesting ways, with the two branches eventually merging in $M/R$ space before settling into a characteristic `paperclip' shape as the dyonic charge ratio becomes large.
+
+#### Casimir effect near spontaneously Lorentz-breaking magnetic vacua in Plebański nonlinear electrodynamics
+ - **Authors:** C. A. Escobar, Román Linares, A. Martín-Ruiz
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** https://arxiv.org/abs/2606.00361
+
+ - **Pdf link:** https://arxiv.org/pdf/2606.00361
+
+ - **Abstract**
+ We study the Casimir response of electromagnetic fluctuations near magnetic vacua that spontaneously break Lorentz symmetry in gauge-invariant nonlinear electrodynamics. The theory is formulated in the Plebański first-order representation, with a single-invariant Hamiltonian potential $\widehat V(P)$ taken as the fundamental nonlinear object. This formulation is particularly useful because the nontrivial vacua are obtained as stationary points of the effective Hamiltonian, rather than as extrema of $\widehat V(P)$ itself. In the magnetic branch, the symmetry-breaking condition is governed by $S_m(P) \equiv \widehat V_P(P)+2P\widehat V_{PP}(P)$, whose vanishing also signals the degeneracy of the Hamiltonian constraint structure and the loss of rank of the longitudinal magnetic response. We first linearize around a regular purely magnetic background $\bar P$, with $S_m(\bar P)\neq0$, and obtain an ordinary Maxwell-like branch together with an extraordinary anisotropic branch controlled by $\alpha(\bar P)=\widehat V_P(\bar P)/S_m(\bar P)$. We then compute the regularized parallel-plate Casimir energy for magnetic backgrounds perpendicular and parallel to the plates. As the regular background approaches the exact Lorentz-breaking vacuum $P_\star$, where $S_m(P_\star)=0$, the extraordinary branch becomes singular and, in the parallel configuration, the Casimir energy diverges within the regular-sector description. A direct analysis on the degenerate surface shows, however, that the extraordinary branch does not survive as an independent physical propagating mode for generic momenta. The divergence is therefore not a prediction of an infinite vacuum energy at the exact Lorentz-breaking state, but a diagnostic of the noncommutativity between quantizing the regular theory and imposing $S_m(P_\star)=0$ before quantization.
 
 #### Black holes with quantum corrections in $3d$: The case of Page curve in Lindblad, greybody factor, and Lyapunov exponent
  - **Authors:** Mahdis Ghodrati
