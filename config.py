@@ -20,7 +20,7 @@ NEW_SUB_URLS = [
 ]
 
 # Keywords to search
-KEYWORD_LIST = ["inhomogeneous cosmology", "inhomogeneous universe", "multifield dark energy", "multi-field dark energy","black hole","modified gravity","exact solution"]
+KEYWORD_LIST = ["exact solution", "modified gravity", "nonlinear electrodynamics", "dark energy", "black hole"]
 # Keywords to exclude
 KEYWORD_EX_LIST = []
 # Note that the 'Keywords' above are actually searched in the abstract instead of the real keyword section. 
