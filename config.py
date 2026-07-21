@@ -20,7 +20,8 @@ NEW_SUB_URLS = [
 ]
 
 # Keywords to search
-KEYWORD_LIST = ["Blanford", "Znajek", "Kerr-Bertotti-Robinson black hole", "Kerr-Bertotti-Robinson", "KBR"]#["exact solution", "modified gravity", "nonlinear electrodynamics", "black hole", "Blanford", "Znajek"]
+KEYWORD_LIST = ["Blanford", "Znajek", "Kerr-Bertotti-Robinson black hole", "Kerr-Bertotti-Robinson", "KBR"]
+               #["exact solution", "modified gravity", "nonlinear electrodynamics", "black hole", "Blanford", "Znajek"]
 # Keywords to exclude
 KEYWORD_EX_LIST = []
 # Note that the 'Keywords' above are actually searched in the abstract instead of the real keyword section. 
