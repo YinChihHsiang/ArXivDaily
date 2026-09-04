@@ -20,7 +20,7 @@ NEW_SUB_URLS = [
 ]
 
 # Keywords to search
-KEYWORD_LIST = ["Blanford", "Znajek", "Kerr-Bertotti-Robinson black hole", "Kerr-Bertotti-Robinson", "KBR"]
+KEYWORD_LIST = ["Blanford", "Znajek", "Kerr-Bertotti-Robinson black hole", "Kerr-Bertotti-Robinson", "KBR", "Kerr-Newman-BR", "KNBR", "Kerr-Newman-Bertotti-Robinson"]
                #["exact solution", "modified gravity", "nonlinear electrodynamics", "black hole", "Blanford", "Znajek"]
 # Keywords to exclude
 KEYWORD_EX_LIST = []
