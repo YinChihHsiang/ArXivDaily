@@ -1,0 +1,34 @@
+# Showing new listings for Wednesday, 14 October 2026
+Auto update Star Formation & Molecular Cloud papers at about 2:30am UTC (10:30am Beijing time) every weekday.
+
+
+阅读 `Usage.md`了解如何使用此repo实现个性化的Arxiv论文推送
+
+See `Usage.md` for instructions on how to personalize the repo. 
+
+
+Keyword list: ['Blanford', 'Znajek', 'Kerr-Bertotti-Robinson black hole', 'Kerr-Bertotti-Robinson', 'KBR', 'Kerr-Newman-BR', 'KNBR', 'Kerr-Newman-Bertotti-Robinson']
+
+
+Excluded: []
+
+
+### Today: 1papers 
+
+#### Revisiting the Multiwavelength Data of GRB 240825A: Implications for a Two-Stage Central Engine and a Dusty Environment
+ - **Authors:** Ren-Jie Xiong, Zi-Qi Wang, Xiao-Li Huang, En-Wei Liang
+ - **Subjects:** Subjects:
+High Energy Astrophysical Phenomena (astro-ph.HE)
+ - **Arxiv link:** https://arxiv.org/abs/2610.15703
+
+ - **Pdf link:** https://arxiv.org/pdf/2610.15703
+
+ - **Abstract**
+ Reanalyzing the multi-wavelength data of GRB 240825A, we identify two distinct prompt-emission episodes, i.e. an early, spectrally soft plateau and a subsequent bright, spectrally hard gamma-ray pulse. We show that this signature is consistent with a two-stage central engine model, in which the early soft plateau is powered by the dipolar spin-down radiation of a transient proto-magnetar, while the later hard pulse arises from a relativistic jet launched by fallback accretion onto the nascent black hole via the Blandford-Znajek mechanism. Adopting simulation-motivated initial black hole (BH) masses ($M_{\rm BH,0}$) and spins ($a_0$), our fits to the second episode yield total masses supplied to the post-collapse disk of $M_{\rm fb}=0.45$--$0.96 M_\odot$, fallback radii of $r_{\rm fb}=16.9$--$17.6 r_g$, and characteristic fallback timescales of $t_{\rm fb}=0.13$--$0.25$ s. The corresponding maximum inner accretion rates range from $0.18$ to $0.70 M_\odot \mathrm{s}^{-1}$, which is sensitive to $a_0$. Joint spectral fits with optical-X-ray afterglow data reveal a coupled temporal evolution of dust extinction and equivalent hydrogen column density. Incorporating this extinction evolution, an external forward-reverse shock model in a wind-like medium can account for the radio-to-GeV band afterglow data. Although ambient dust and the bright host galaxy may obscure any associated supernova, late-time optical reddening remains compatible with a supernova contribution. Applying the empirical relation between the prompt spectral peak energy and the SN peak bolometric magnitude gives an illustrative estimate of $M_{\rm bol,peak}=-19.46\pm0.35$ mag for a putative associated SN. These results support a two-stage evolution of the central engine and variable dusty environment of GRB 240825A, which provides insights into the nature of its progenitor.
+
+
+
+by YinChihHsiang (Yin ZhiXiang). 
+
+
+2026-10-14
