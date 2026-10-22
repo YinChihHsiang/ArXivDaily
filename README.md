@@ -1,4 +1,4 @@
-# Showing new listings for Wednesday, 21 October 2026
+# Showing new listings for Thursday, 22 October 2026
 Auto update Star Formation & Molecular Cloud papers at about 2:30am UTC (10:30am Beijing time) every weekday.
 
 
@@ -21,4 +21,4 @@ There is no result
 by YinChihHsiang (Yin ZhiXiang). 
 
 
-2026-10-21
+2026-10-22
