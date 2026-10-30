@@ -1,0 +1,24 @@
+# Showing new listings for Friday, 30 October 2026
+Auto update Star Formation & Molecular Cloud papers at about 2:30am UTC (10:30am Beijing time) every weekday.
+
+
+阅读 `Usage.md`了解如何使用此repo实现个性化的Arxiv论文推送
+
+See `Usage.md` for instructions on how to personalize the repo. 
+
+
+Keyword list: ['Blanford', 'Znajek', 'Kerr-Bertotti-Robinson black hole', 'Kerr-Bertotti-Robinson', 'KBR', 'Kerr-Newman-BR', 'KNBR', 'Kerr-Newman-Bertotti-Robinson']
+
+
+Excluded: []
+
+
+### Today: 0papers 
+
+There is no result 
+
+
+by YinChihHsiang (Yin ZhiXiang). 
+
+
+2026-10-30
